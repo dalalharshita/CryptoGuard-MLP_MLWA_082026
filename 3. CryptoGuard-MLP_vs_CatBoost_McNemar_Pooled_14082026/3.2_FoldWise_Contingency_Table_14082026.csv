@@ -1,0 +1,6 @@
+Fold,Total_Samples,a_Both_Correct,b_MLP_Advantage,c_CryptoGuard_Disadvantage,d_Both_Wrong
+1,4000,3573,148,111,168
+2,4000,3603,122,97,178
+3,4000,3550,159,101,190
+4,4000,3578,167,119,136
+5,4000,3571,140,111,178

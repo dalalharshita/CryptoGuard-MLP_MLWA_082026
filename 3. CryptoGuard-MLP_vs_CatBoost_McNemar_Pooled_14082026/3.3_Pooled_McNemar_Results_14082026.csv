@@ -1,0 +1,2 @@
+Test,Model_1,Model_2,Total_Samples,Total_Folds,a_Both_Correct,b_MLP_Advantage,c_CryptoGuard_Disadvantage,d_Both_Wrong,Chi_Square_Statistic,P_Value,Significant_at_Alpha_0.05,Effect_Size_b_c_Ratio
+McNemar's Test (Pooled),CryptoGuard-MLP,CatBoost,20000,5,17875,736,539,850,30.4384,0.0000000345,Yes,1.3655
